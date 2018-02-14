@@ -1,0 +1,12 @@
+<div class="container">
+    <div class="box type-box">
+        <div class="title">TYPES</div>  
+        <div class="half-row object-position" ng-repeat="x in $ctrl.types track by $index">
+            <img class="center-img" ng-src="{{$ctrl.imgs[$index]}}" alt="img" height="36" width="36"> 
+            <div class="text-container">
+                <div class="text" style="font-size: 13px;">{{x}}</div>
+                <div class="text break-line">{{$ctrl.keys[$index]}}</div>
+            </div> 
+        </div> 
+    </div>
+</div>

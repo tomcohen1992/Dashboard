@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    flex-flow: row wrap;
+    padding-left: 0px;
+} 
+
+.container .box {
+    height: 233px;
+    width: 220px;
+    flex-grow: 2;
+    background-color: rgb(33, 74, 107);
+}
+
+.container .box .title {
+    height: 30px;
+    background-color: rgb(32, 60, 82);
+    padding-left: 12px;
+    padding-top: 7px;
+    color: white;
+}
+
+.box .progress {
+    height: 0.3rem;
+    width: 90%;
+    display: -webkit-inline-box;
+    background-color: rgb(28, 55, 74);
+}
+
+.box .progress .progress-bar {
+    background-color: rgb(139, 181, 213);
+}
+.container .box .value {
+    float: right;
+    vertical-align:top;
+}
+

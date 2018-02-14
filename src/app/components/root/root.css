@@ -1,0 +1,42 @@
+.root-Container{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(25, 41, 52);
+     
+}
+
+.root-Container .header{
+    background-color: rgb(32, 60, 82);
+    padding-top: 17px;
+    padding-left: 9px;
+    height: 53px;
+}
+
+.root-Container .dashboard-container {
+  display: flex;
+  flex-flow: row wrap;
+  height: 80%;
+  margin: auto;
+}
+
+.dashboard-container .components-container {
+    display: flex;
+    width: 85%;
+    margin: auto;
+    background-color: rgb(35, 82, 120);
+    padding-top: 130px;
+    padding-bottom: 450px;
+    padding-right:none; 
+    padding-left: none; 
+    margin-left: 6%;
+}
+
+
+.dashboard-container .components-container:first-child {
+    padding-bottom: 0px;
+}
+
+.dashboard-container .components-container:last-child {
+    padding-top: 12px;
+    
+}

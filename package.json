@@ -1,0 +1,29 @@
+{
+  "name": "Dashboard",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "webpack-dev-server --port=4200",
+    "server": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "author": "Tom Cohen",
+  "license": "Tom Cohen",
+  "dependencies": {
+    "angular": "1.6.7",
+    "express": "^4.16.2",
+    "angular-chart.js": "1.1.1",
+    "morgan": "^1.9.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^2.30.1",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.7"
+  }
+}

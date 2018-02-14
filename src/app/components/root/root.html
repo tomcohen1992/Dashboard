@@ -1,0 +1,15 @@
+<div class="root-Container" ng-init="$ctrl.getObject()">
+    <header class="header">
+        <div>
+            <img ng-src="./assets/logo.png" style="width: 80px;" alt="logo">
+        </div>
+    </header>
+       <div class="dashboard-container">
+           <div class="components-container" ng-repeat="object in $ctrl.objects track by $index">
+                <app-img-component index="$index"></app-img-component> 
+                <app-types-component types="object.Types" style="flex-grow: 2"></app-types-component>
+                <app-severities-component severities="object.Severities" style="flex-grow: 2"></app-severities-component>
+                <app-source-component sources="object.Sources" style="flex-grow: 1"></app-source-component>
+            </div>
+        </div>
+</div>

@@ -1,0 +1,48 @@
+.container .type-box {
+    min-width: 240px;
+}
+
+.container .box .half-row{
+    width: 50%;
+    height: 30%;
+    display: inline-flex;
+}
+
+ .box .object-position{ 
+    display: inline-block;
+    border-bottom: 1px groove;
+    border-color: rgb(32, 60, 82);
+}
+
+.container .box .half-row .center-img{
+    margin-left: 8%;
+    margin-top: 6%;
+}
+
+.text-container {
+    margin-top: 5%;
+    margin-left: 3%;
+}
+
+.break-line {
+    word-wrap: break-word;
+    margin-top: 3px;
+    width: 7em;
+}
+
+.text {
+    font-family: open sans; 
+    font-size: 10px;
+    color: white;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.half-row:last-child {
+    border-bottom: none;
+}
+
+.half-row:nth-last-child(2) {
+    border-bottom: none;
+}
+ 
