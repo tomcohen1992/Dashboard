@@ -1,0 +1,201 @@
+Skip to content
+Your account has been flagged.
+Because of that, your profile is hidden from the public. If you believe this is a mistake, contact support to have your account status reviewed.
+darkweb vip
+Repositories0
+Code809
+Commits3
+Issues0
+Marketplace0
+Topics0
+Wikis0
+Users0
+Language
+
+Sort
+
+809 code results
+@avihai-developer
+avihai-developer/intsights-server – data.ts
+Showing the top four matches
+Last indexed on Jan 26
+TypeScript
+        "severity" : "Medium",
+        "type" : "vip",
+        "sourceType" : "SocialMedia",
+        "networkType" : "DarkWeb"
+        "severity" : "Medium",
+        "type" : "vip",
+        "sourceType" : "ApplicationStores",
+        "networkType" : "DarkWeb"
+@yonischeyer1
+yonischeyer1/insights – app.component.html
+Showing the top two matches
+Last indexed on Jul 11, 2018
+HTML
+              <div class="ui-g-5">
+                <img class="type-icon" src="../assets/vip_icon.png">
+              </div>
+              <div class="ui-g-5">
+                <label class="type-label">{{getTypes('clearWeb','vip')}}</label>
+@DavidAvigad
+DavidAvigad/intsight – main.html
+Showing the top four matches
+Last indexed on Jul 8, 2018
+HTML
+							<div class="icon vip"></div>
+							<div class="info">
+								<div class="value">{{clearweb.Types.vip}}</div>
+						<div class="ui padded grid stretched">
+							<div class="icon vip"></div>
+							<div class="info">
+								<div class="value">{{darkweb.Types.vip}}</div>
+@RoiPapo
+RoiPapo/DashboardSandbox – data.json
+Showing the top two matches
+Last indexed on Jul 14, 2018
+JSON
+			"Phishing":230,
+			"BrandSecurity":16,
+			"ExploitableData":41,
+			"vip":23
+		},
+		"Severities": {
+			"High":144,
+			"Others":77.35849056603774
+		}
+	},
+	"DarkWeb": {
+		"Types": {
+			"AttackIndication":30,
+			"DataLeakage":21,
+			"Phishing":0,
+@DavidAvigad
+DavidAvigad/intsight – data.js
+Showing the top two matches
+Last indexed on Jul 8, 2018
+JavaScript
+		BrandSecurity: Number,
+		ExploitableData: Number,
+		vip: Number
+	},
+	severities = {
+		High: Number,
+		Medium: Number,
+		Severities: severities,
+		Sources: cSources
+	},
+	darkWeb = {
+		Types: types,
+		Severities: severities,
+		Sources: dSources
+@2aviv20
+2aviv20/AvivAngularExampleCode – data.json
+Showing the top two matches
+Last indexed on Nov 22, 2018
+JSON
+			"Phishing":230,
+			"BrandSecurity":16,
+			"ExploitableData":41,
+			"vip":23
+		},
+		"Severities": {
+			"High":144,
+			"Others":77.35849056603774
+		}
+	},
+	"DarkWeb": {
+		"Types": {
+			"AttackIndication":30,
+			"DataLeakage":21,
+			"Phishing":0,
+@liranhershko
+liranhershko/IS_exercise – dashboard.json
+Showing the top two matches
+Last indexed on Jul 7, 2018
+JSON
+			"Phishing":230,
+			"BrandSecurity":16,
+			"ExploitableData":41,
+			"vip":23
+		},
+		"Severities": {
+			"High":144,
+			"Others":77.35849056603774
+		}
+	},
+	"DarkWeb": {
+		"Types": {
+			"AttackIndication":30,
+			"DataLeakage":21,
+			"Phishing":0,
+@Tomagi
+Tomagi/HomeAssignment_IS – data.json
+Showing the top two matches
+Last indexed on Jul 15, 2018
+JSON
+			"Phishing":230,
+			"BrandSecurity":16,
+			"ExploitableData":41,
+			"vip":23
+		},
+		"Severities": {
+			"High":144,
+			"Others":77.35849056603774
+		}
+	},
+	"DarkWeb": {
+		"Types": {
+			"AttackIndication":30,
+			"DataLeakage":21,
+			"Phishing":0,
+@rbuenavida
+rbuenavida/angular-dashboard – data.json
+Showing the top two matches
+Last indexed on Jul 10, 2018
+JSON
+			"Phishing":230,
+			"BrandSecurity":16,
+			"ExploitableData":41,
+			"vip":23
+		},
+		"Severities": {
+			"Others":77.35849056603774
+		}
+	},
+	"DarkWeb": {
+		"Types": {
+			"AttackIndication":30,
+			"DataLeakage":21,
+@tomcohen1992
+tomcohen1992/Dashboard – data.json
+Showing the top two matches
+Last indexed on Jul 13, 2018
+JSON
+			"Phishing":230,
+			"BrandSecurity":16,
+			"ExploitableData":41,
+			"vip":23
+		},
+		"Severities": {
+			"High":144,
+			"Others":77.35849056603774
+		}
+	},
+	"DarkWeb": {
+		"Types": {
+			"AttackIndication":30,
+			"DataLeakage":21,
+			"Phishing":0,
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+https://www.apple.com/us/search/npm-install---save-is-google?src=globalnav
+About
